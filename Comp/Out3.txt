@@ -1,0 +1,1 @@
+ AB: 90 AB: 12 AB: 21 AB: 11 AB: 20 SCDFGHIJ: isdigit CDEKLMN: isalpha SCDFGHIJ: isdigit

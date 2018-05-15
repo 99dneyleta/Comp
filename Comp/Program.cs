@@ -156,7 +156,7 @@ namespace Comp
             }
             return line;
         }
-        public static void Main(string[] args)
+        /*public static void Main(string[] args)
         {
             var res = "";
             string[] lines = System.IO.File.ReadAllLines(@"c:\users\progr\source\repos\Comp\Comp\Input.txt");
@@ -172,6 +172,6 @@ namespace Comp
                     Console.WriteLine(ex.Message);
                 }
             }
-        }
+        }*/
     }
 }
