@@ -1,1 +1,4 @@
- AB: 90 AB: 12 AB: 21 AB: 11 AB: 20 SCDFGHIJ: isdigit CDEKLMN: isalpha SCDFGHIJ: isdigit
+word: 12, class: Identifier
+word: isalpha, class: IsAlpha
+word: isdigit, class: IsDigit
+word: isalpha, class: IsAlpha

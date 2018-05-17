@@ -204,7 +204,7 @@ namespace Comp
         }
 
 
-        public static void Main(string[] args)
+      /*  public static void Main(string[] args)
         {
             string line = System.IO.File.ReadAllText(@"c:\users\progr\source\repos\Comp\Comp\3Input.txt");
             S(line);
@@ -213,6 +213,6 @@ namespace Comp
             string[] arr1 = new string[] { correct };
             System.IO.File.WriteAllLines(@"c:\users\progr\source\repos\Comp\Comp\Out3.txt", arr1);
             Console.WriteLine(correct);
-        }
+        }*/
     }
 }
